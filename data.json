@@ -1,0 +1,7 @@
+{
+    "interest": 10,
+    "term": 5,
+    "term type": "year",
+    "loan amount": 100000,
+    "repayment method": "annuity"
+}
